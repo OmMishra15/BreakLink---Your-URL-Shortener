@@ -44,7 +44,9 @@ Launch your preferred command shell or terminal window and invoke the following 
 
 ```bash
 # Clone the repository using GitHub HTTPS URL protocol
-git clone https://github.com/OmMishra15/BreakLink---Your-URL-Shortener.git 
+git clone https://github.com/OmMishra15/BreakLink---Your-URL-Shortener.git
+
+cd BreakLink---Your-URL-Shortener
 
 # Shift active operation window directly into the project workspace directory
 cd breaklink
